@@ -104,6 +104,7 @@
 			<Item Name="Split Registers by Direction.vi" Type="VI" URL="../SubVIs/Split Registers by Direction.vi"/>
 			<Item Name="Save Parsed Configuration.vi" Type="VI" URL="../SubVIs/Save Parsed Configuration.vi"/>
 			<Item Name="Remove Invalid Scalars.vi" Type="VI" URL="../SubVIs/Remove Invalid Scalars.vi"/>
+			<Item Name="Remove Invalid DMAs.vi" Type="VI" URL="../SubVIs/Remove Invalid DMAs.vi"/>
 		</Item>
 		<Item Name="Types" Type="Folder">
 			<Item Name="Channel Type.ctl" Type="VI" URL="../Types/Channel Type.ctl"/>
